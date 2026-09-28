@@ -1,6 +1,6 @@
 ## # Amanda Rosario
 
-### Business Systems • Data Analytics • Systems Design
+### Business Systems & Data Analytics • Manufacturing Technology • Systems Design • Process Improvement
 
 Technical manufacturing professional transitioning into business systems and data analytics.
 
