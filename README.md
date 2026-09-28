@@ -29,6 +29,5 @@ The Pennsylvania State University — Following B.S.
 
 ### Connect
 
-[Portfolio]((https://sites.google.com/view/amanda-rosario/home)) • [LinkedIn]((https://www.linkedin.com/in/amanda-rosario-6a723943b ))
-
+Portfolio • LinkedIn
 
