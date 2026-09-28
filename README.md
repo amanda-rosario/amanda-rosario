@@ -1,4 +1,4 @@
-## # Mandee Rosario
+## # Amanda Rosario
 
 ### Business Systems • Data Analytics • Systems Design
 
@@ -22,27 +22,13 @@ This GitHub documents projects, experiments, and technical work as I develop my 
 ### Education
 
 **B.S. Information Sciences & Technology**
-The Pennsylvania State University — Planned for Spring 2027
+The Pennsylvania State University — Planned Graduation 2031
 
 **M.S. Enterprise Architecture**
-The Pennsylvania State University — Planned following B.S.
+The Pennsylvania State University — Following B.S.
 
 ### Connect
 
-[Portfolio](YOUR_PORTFOLIO_LINK) • [LinkedIn](YOUR_LINKEDIN_LINK)
+[Portfolio]((https://sites.google.com/view/amanda-rosario/home)) • [LinkedIn]((https://www.linkedin.com/in/amanda-rosario-6a723943b ))
 
 
-<!--
-**amanda-rosario/amanda-rosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
