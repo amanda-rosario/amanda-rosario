@@ -28,6 +28,5 @@ The Pennsylvania State University — Planned Graduation 2031
 The Pennsylvania State University — Following B.S.
 
 ### Connect
-
-Portfolio • LinkedIn
+<a href="https://sites.google.com/view/amanda-rosario/home">Portfolio</a> • <a href="https://www.linkedin.com/in/amanda-rosario-6a723943b">LinkedIn</a>
 
